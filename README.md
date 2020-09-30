@@ -1,2 +1,2 @@
-# lubuntu.net
+# Myubuntu.net
 lubuntu.net website
